@@ -1,6 +1,6 @@
 # Desafio Node.js – Primeira API (aulas)
 
-API simples em Node.js + TypeScript usando Fastify, Drizzle ORM (PostgreSQL) e Zod. Inclui documentação Swagger/Scalar em ambiente de desenvolvimento.
+Uma API simples em Node.js + TypeScript usando Fastify, Drizzle ORM (PostgreSQL) e Zod. Inclui documentação Swagger/Scalar em ambiente de desenvolvimento.
 
 ## Requisitos
 - Node.js 22+

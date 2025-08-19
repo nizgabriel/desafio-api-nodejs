@@ -9,3 +9,4 @@ RUN npm ci
 EXPOSE 3333
 
 CMD ["node", "src/server.ts"]
+
